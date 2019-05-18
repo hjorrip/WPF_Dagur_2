@@ -1,0 +1,15 @@
+C:\Users\hjorturpp\source\repos\WPF2_1\WPF2_1\bin\Debug\WPF2_1.exe.config
+C:\Users\hjorturpp\source\repos\WPF2_1\WPF2_1\bin\Debug\WPF2_1.exe
+C:\Users\hjorturpp\source\repos\WPF2_1\WPF2_1\bin\Debug\WPF2_1.pdb
+C:\Users\hjorturpp\source\repos\WPF2_1\WPF2_1\obj\Debug\WPF2_1.csprojAssemblyReference.cache
+C:\Users\hjorturpp\source\repos\WPF2_1\WPF2_1\obj\Debug\MainWindow.g.cs
+C:\Users\hjorturpp\source\repos\WPF2_1\WPF2_1\obj\Debug\App.g.cs
+C:\Users\hjorturpp\source\repos\WPF2_1\WPF2_1\obj\Debug\WPF2_1_MarkupCompile.cache
+C:\Users\hjorturpp\source\repos\WPF2_1\WPF2_1\obj\Debug\WPF2_1_MarkupCompile.lref
+C:\Users\hjorturpp\source\repos\WPF2_1\WPF2_1\obj\Debug\MainWindow.baml
+C:\Users\hjorturpp\source\repos\WPF2_1\WPF2_1\obj\Debug\WPF2_1.g.resources
+C:\Users\hjorturpp\source\repos\WPF2_1\WPF2_1\obj\Debug\WPF2_1.Properties.Resources.resources
+C:\Users\hjorturpp\source\repos\WPF2_1\WPF2_1\obj\Debug\WPF2_1.csproj.GenerateResource.cache
+C:\Users\hjorturpp\source\repos\WPF2_1\WPF2_1\obj\Debug\WPF2_1.csproj.CoreCompileInputs.cache
+C:\Users\hjorturpp\source\repos\WPF2_1\WPF2_1\obj\Debug\WPF2_1.exe
+C:\Users\hjorturpp\source\repos\WPF2_1\WPF2_1\obj\Debug\WPF2_1.pdb
